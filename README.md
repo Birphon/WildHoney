@@ -12,6 +12,11 @@ All Unpaid for - I do not have the funds to be able to pay for work, sadly - thi
 This project will be handed in an semi-open source manor where all assets are made for this project and this project alone however the project is open for people to work on - an example would be if the developers have stopped playing/no longer interested in Wilds that this project can be easily taken over to continue its development
 
 
+##  Tools used:
+- NextJS
+- Shancn
+- React
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
